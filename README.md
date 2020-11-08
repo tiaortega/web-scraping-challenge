@@ -1,6 +1,6 @@
 # web-scraping-challenge
 
-![mission_to_mars](Images/final_Tia_Mission to mars pt2.jpg)
+![mission_to_mars](Images/mission_to_mars.png)
 
 In this challenge, you will observe a web application that scrapes various websites for data related to NASA and Mars. It will also display the information in a single HTML page. Let's take a look.
 
@@ -29,4 +29,3 @@ Completed the initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, an
 Created a new HTML page that displays all of the information that was scraped using MongoDB with Flask templating.
 
 ## Step 3 - Submission
-Submitted all work to BootCampSpot.
