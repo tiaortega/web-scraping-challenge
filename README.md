@@ -29,3 +29,5 @@ Completed the initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, an
 Created a new HTML page that displays all of the information that was scraped using MongoDB with Flask templating.
 
 ## Step 3 - Submission
+
+Submitted all work to BootCampSpot.
